@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 2 Part 1</string>
+    <string name="first_color">First Color:</string>
+    <string name="second_color">Second Color:</string>
+    <string name="hint">Red,Blue or Green</string>
+    <string name="execute">Enter</string>
+    <string name="warning">You need to type something.</string>
+    <string name="format">You typed the worse format.</string>
+    <string-array name="color_list">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>

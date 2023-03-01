@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 2 part 2</string>
+    <string name="cb_mobile">Mobile</string>
+    <string name="cb_web">Web</string>
+    <string name="select">You selected </string>
+    <string name="unselected">unselected</string>
+    <string name="fun">Fun</string>
+    <string name="boring">Boring</string>
+</resources>
